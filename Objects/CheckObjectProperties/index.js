@@ -1,3 +1,9 @@
+/**
+ * This progam checks if the object property has an empty string
+ * it also checks the object properties inside an object properties.
+ */
+
+
 const data = {
     question:"",
         questionType:"",
